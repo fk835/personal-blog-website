@@ -1,3 +1,3 @@
-# Landing Page App Design
+# Personal Blog
 
 This is my first single page website
